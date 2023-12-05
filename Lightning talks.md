@@ -1,0 +1,22 @@
+- Jacob - team topologies
+	- recap of TT
+	- Decent recapture of team topologies, but nothing new if you haven't already read the book
+- Outcome driven knowledge modeling
+	- arjan noordhoek
+	- > UX is preventing us from being customer centric
+	- The real problem - the requirements translation and quality gap
+	- "Projects outcomes aim to address core problems and drive changes in conditions, behaviour or attitudes to provide a positive impact."
+	- "Projects outcomes are resullts that occur from creating your prooduct or service. They are the changes in policies people and commjncities that tyou aim to achieve with your work."
+	- >> synonymous with "assert first"? 
+	- Turned out to be a bit of a sales pitch, but I enjooyed this talk all the same. Some of the things this guy said, really resonated with current projects. 
+	  > UX is preventing us from being customer centric- 
+- Tranittioning in to tech 
+	- Course: "Hack your future" - Free course helping newcomers to tech. 
+	- Great talk from a guy newish to the field, starting in his 40s. Made me think of Saron Yitbareks initiative to help people transition into the field. Still an area I have a great deal of interest in, but little idea of what I can do to contribute.
+- .Net core minimal mock api with chaos injection
+	- Rui Braga
+	- (Made by Javier Menendez Gutierrez)
+	- Simmy (lu) - fault injection tool.
+	- (Poly framework)
+	- mimimal apis (lu)
+	- A little tech walkthrough through some of Rui's toolling. With all the C sharp this week, I'm tempted to spin something up and just try one of these chaos tools. I've wanted to trial one for years now!
